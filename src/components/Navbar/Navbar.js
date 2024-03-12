@@ -54,7 +54,7 @@ const navbar = () => {
             About
           </Link>
           <Link to="Past" spy={true} smooth={true} offset={-150} duration={500}>
-            Hackathons
+            Timeline
           </Link>
           <Link
             to="Events"
@@ -63,7 +63,7 @@ const navbar = () => {
             offset={-150}
             duration={500}
           >
-            Events
+            Our Team
           </Link>
           <Link
             to="Sponsors"
@@ -81,7 +81,7 @@ const navbar = () => {
             offset={-150}
             duration={500}
           >
-            Contact
+            FAQ
           </Link>
         </div>
         <div className="NavLinks">

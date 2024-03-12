@@ -13,10 +13,10 @@ const front = () => {
           <img className="TextLogo" src={TextLogo} alt="" />
         </div>
         <div class="HeroText">
-          <h1>The University of Ottawa's Hackathon Community</h1>
+          <h1>Hackathon by GDSC BVP</h1>
           <div className="logobutton">
             <a href="https://2024.uottahack.ca/" target="_blank">
-              <button className="btn">Visit 2024 →</button>
+              <button className="btn">Register Here →</button>
             </a>
           </div>
         </div>

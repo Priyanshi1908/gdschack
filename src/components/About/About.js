@@ -6,28 +6,22 @@ class About extends Component {
     return (
       <div className="About" id="About">
         <p>
-          Our mission is to empower students on campus to explore their passion
-          for tech, through building a community of like-minded individuals who
-          innovate and disrupt the worlds of business and technology!
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi diam justo, ornare quis nisi elementum, interdum convallis urna. Phasellus lobortis ante sed tortor rhoncus dapibus. Sed vestibulum, tellus vitae fermentum sollicitudin, lacus felis blandit ipsum, a venenatis tellus ligula a ligula. Nunc molestie consequat pulvinar. Pellentesque ut suscipit tortor. Nulla tincidunt tellus dolor, sed sagittis magna blandit imperdiet. Nunc sed sem eleifend, laoreet turpis a, convallis elit. Cras ut leo dignissim, fringilla lectus nec, fringilla lectus. Cras commodo rhoncus metus, sed vehicula tellus elementum sed. Proin accumsan ipsum urna, at imperdiet felis convallis in. In quis est sit amet tortor luctus volutpat at ac felis. 
         </p>
 
-        <h3>Connect with uOttawa's Tech Community</h3>
+        <h3>Proin accumsan ipsum urna</h3>
         <p>
-          Meet other students who are interested in the tech space in the open
-          atmosphere of our events.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi diam justo, ornare quis nisi elementum, interdum convallis urna. Phasellus lobortis ante sed tortor rhoncus dapibus. Sed vestibulum, tellus vitae fermentum sollicitudin, lacus felis blandit ipsum, a venenatis tellus ligula a ligula. Nunc molestie consequat pulvinar.
         </p>
 
-        <h3>Discover and Learn</h3>
+        <h3>Proin accumsan ipsum urna</h3>
         <p>
-          Through our workshops, hack days, and myriad of resources be exposed
-          to new languages and frameworks that real developers are adopting.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi diam justo, ornare quis nisi elementum, interdum convallis urna. Phasellus lobortis ante sed tortor rhoncus dapibus. Sed vestibulum, tellus vitae fermentum sollicitudin, lacus felis blandit ipsum, a venenatis tellus ligula a ligula. Nunc molestie consequat pulvinar.
         </p>
 
-        <h3>Accelerate Your Career</h3>
+        <h3>Proin accumsan ipsum urna</h3>
         <p>
-          Attend events like our flagship hackathon and have the opportunity to
-          collaborate with students from across Canada and receive mentorship
-          from our industry leading sponsors.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi diam justo, ornare quis nisi elementum, interdum convallis urna. Phasellus lobortis ante sed tortor rhoncus dapibus. Sed vestibulum, tellus vitae fermentum sollicitudin, lacus felis blandit ipsum, a venenatis tellus ligula a ligula. Nunc molestie consequat pulvinar.
         </p>
       </div>
     );

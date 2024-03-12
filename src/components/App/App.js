@@ -17,31 +17,27 @@ class App extends Component {
     this.setState({
       sections: [
         {
-          sectionName: "What is uOttaHack?",
+          sectionName: "About this hackathon",
           subtitle: ""
         },
         {
-          sectionName: "Our Most Recent Event",
+          sectionName: "Past Events",
           subTitle: ""
         },
         {
-          sectionName: "Past uOttaHacks",
-          subTitle: ""
-        },
-        {
-          sectionName: "Our Events & Initiatives",
+          sectionName: "Themes",
           subtitle: ""
         },
         {
-          sectionName: "Past Sponsors",
+          sectionName: "Sponsors",
           subtitle: ""
         },
         {
-          sectionName: "Our Partners",
+          sectionName: "Partners",
           subtitle: ""
         },
         {
-          sectionName: "Get in touch",
+          sectionName: "FAQ",
           subtitle: ""
         },
         {
